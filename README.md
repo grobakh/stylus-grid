@@ -1,7 +1,7 @@
 # stylus-grid
 ###CSS Grid 960 with stylus macros and generators. 
 Customizable gap and unit size.
-No padding magic in container. No 'row' markup.
+No padding magic in container. No 'row' div markup.
 
 1. Add stylus support to your project
 2. Download grid.styl
