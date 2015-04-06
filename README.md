@@ -1,5 +1,5 @@
 # stylus-grid
-###CSS Grid 960 with stylus generator. 
+###CSS Grid 960 with stylus macros and generators. 
 Customizable gap and unit size.
 No padding magic in container. No 'row' markup.
 
