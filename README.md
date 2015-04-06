@@ -1,5 +1,5 @@
 # stylus-grid
-CSS Grid 960 with stylus generator
+CSS Grid 960 with stylus generator. No padding magic in container. No 'row' markup.
 
 1. Add stylus support to your project
 2. Download grid.styl
