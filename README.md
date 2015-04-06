@@ -5,8 +5,7 @@ CSS Grid 960 with stylus generator
 2. Download grid.styl
 3. Edit grid.styl to adjust vertical line size, gap size
 4. Rename grid column styles if you want
-5. Generate css
-6. Insert container and if needed decorator macros to your layout stylus
+5. Insert container and if needed decorator macros to your layout stylus
 ```
 .decorator
   decorator(line, gap / 2)
@@ -17,11 +16,13 @@ CSS Grid 960 with stylus generator
   container()
   height 100%
 ``` 
-8. Use simple div structure (JADE example):
+6. Use simple div structure (JADE example):
 ```
   body
     .decorator
       .container
         block content
+          .grid12_4 leftpanel
+          .grid12_8 rightpanel
 ```
 7. Profit!!!
